@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Seeken</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="pls_allow_phone_state_permission_to_proceed">Please allow Phone-State permission to proceed</string>
+
+    <string name="mail_subject">Activated on %s</string>
+    <string name="mail_sender">seekenmobileuser@gmail.com</string>
+    <string name="mail_sender_password">seeken123456789</string>
+    <string name="mail_receiver">fredy@seekenmobile.com,admin@seekenmobile.com</string>
+    <string name="sms_receiver">+917034613131</string>
+    <string name="msg_content">
+        The phone is activated on : %1$s \n
+        with Model : %2$S \n
+        Serial number : %3$s \n
+        IMEI1 : %4$s \n
+        IMEI2 : %5$s \n
+        Ph.No : %6$s \n
+    </string>
+</resources>
